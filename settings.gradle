@@ -1,0 +1,2 @@
+rootProject.name='HHSSurveyVersion2'
+include ':app'
